@@ -10,7 +10,6 @@ class Home extends Component {
                 <hr/>
                 <Product />
             </div>
-            
         )
     }
 }
